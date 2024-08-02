@@ -13,7 +13,7 @@ I'm Luiz Vinicius. I'm a FullStack Software Engineer 💻
   • 📚 Academic Background:
 
 ![Windows](https://img.shields.io/badge/Bachelor's_Degree_in_Systems_Analysis_and_Developments-✔️-green.svg)
-![Windows](https://img.shields.io/badge/Postgraduate_Degree_in_Software_Engineering-⌛-green.svg)
+![Windows](https://img.shields.io/badge/Postgraduate_Degree_in_Software_Engineering-✔️-green.svg)
 
 
   • 💻 Technologies:
